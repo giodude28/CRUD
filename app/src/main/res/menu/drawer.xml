@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Trang Chủ"
+        />
+    <item
+        android:id="@+id/tip"
+        android:enabled="true"
+        android:title="Lời khuyên"
+        />
+    <item
+        android:id="@+id/term"
+        android:enabled="true"
+        android:title="Đội"
+        />
+    <item
+        android:id="@+id/liveplay"
+        android:enabled="true"
+        android:title="Trục tiếp trận đấu"
+        />
+</menu>

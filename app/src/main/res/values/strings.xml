@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Try</string>
+
+    <string-array name="Category">
+        <item>Shampoo</item>
+        <item>Body Soap</item>
+        <item>Lotion</item>
+        <item>Perfume</item>
+    </string-array>
+
+    <string-array name="Measure">
+        <item>ML</item>
+        <item>Liter</item>
+        <item>Gallon</item>
+    </string-array>
+</resources>
